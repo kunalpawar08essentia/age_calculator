@@ -1,5 +1,9 @@
 # Age Calculator
 
+Displays Age in Days, Months and Years.
+Developed using Vue.js,html and css.
+Also Displays the name entered in Uppercase.
+
 ## Project setup
 ```
 npm install
