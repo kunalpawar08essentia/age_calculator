@@ -1,4 +1,4 @@
-# nd
+# Age Calculator
 
 ## Project setup
 ```
